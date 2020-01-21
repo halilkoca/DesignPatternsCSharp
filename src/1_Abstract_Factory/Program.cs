@@ -1,4 +1,4 @@
-﻿using System;
+﻿using _0_Util;
 
 namespace _1_Abstract_Factory
 {
@@ -6,7 +6,7 @@ namespace _1_Abstract_Factory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            "Merhaba Dünya!".WriteToConsole();
         }
     }
 }
