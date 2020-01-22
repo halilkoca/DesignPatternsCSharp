@@ -6,37 +6,32 @@ Gang of Four(GOF) olarak bilinen Erich Gamma, Richard Helm, Ralph Johnson ve Joh
 
 ### Creational Patterns
 
-1. Abstract Factory (Soyut Fabrika)
-2. Builder ()
-3. Factory Method
-4. Prototype
-5. Singleton
+1. [Abstract Factory Pattern - Soyut Fabrika Tasarımı](https://github.com/halilkoca/DesignPatternsCSharp/tree/master/src/1_Abstract_Factory "Abstract Factory Pattern")
+2. Builder Pattern
+3. Factory Method Pattern
+4. Prototype Pattern
+5. Singleton Pattern
 
 ### Structural Patterns
 
-6. Adapter
-7. Bridge
-8. Composite
-9. Decorator
-10. Facade
-11. Flyweight
-12. Proxy
+6. Adapter Pattern
+7. Bridge Pattern
+8. Composite Pattern
+9. Decorator Pattern
+10. Facade Pattern
+11. Flyweight Pattern
+12. Proxy Pattern
 
 ### Behavioral Patterns
 
-13. Chain of Responsibility
-14. Command
-15. Interpreter
-16. Iterator
-17. Mediator
-18. Memento
-19. Observer
-20. State
-21. Strategy
-22. Template
-23. Visitor
-
-
-
-
-[text](https://www.google.com "Google's Homepage")
+13. Chain of Responsibility Pattern
+14. Command Pattern
+15. Interpreter Pattern
+16. Iterator Pattern
+17. Mediator Pattern
+18. Memento Pattern
+19. Observer Pattern
+20. State Pattern
+21. Strategy Pattern
+22. Template Pattern
+23. Visitor Pattern
