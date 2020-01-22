@@ -7,18 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="NewFolder\**" />
-    <EmbeddedResource Remove="NewFolder\**" />
-    <None Remove="NewFolder\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="Concrete\" />
-    <Folder Include="Interface\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\0_Util\0_Util.csproj" />
   </ItemGroup>
 
